@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'PokeSDKSwift_Example' do
+  pod 'PokeSDKSwift', :path => '../'
+
+  target 'PokeSDKSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

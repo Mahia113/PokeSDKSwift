@@ -1,0 +1,6 @@
+framework module PokeSDKSwift {
+  umbrella header "PokeSDKSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

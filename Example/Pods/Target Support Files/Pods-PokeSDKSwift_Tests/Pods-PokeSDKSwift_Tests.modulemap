@@ -1,0 +1,6 @@
+framework module Pods_PokeSDKSwift_Tests {
+  umbrella header "Pods-PokeSDKSwift_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

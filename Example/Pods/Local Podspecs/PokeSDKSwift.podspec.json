@@ -1,0 +1,22 @@
+{
+  "name": "PokeSDKSwift",
+  "version": "0.1.0",
+  "summary": "A short description of PokeSDKSwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/José Luis López/PokeSDKSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "José Luis López": "joselopez@anzen.com.mx"
+  },
+  "source": {
+    "git": "https://github.com/José Luis López/PokeSDKSwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PokeSDKSwift/Classes/**/*"
+}

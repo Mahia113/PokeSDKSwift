@@ -1,0 +1,16 @@
+PODS:
+  - PokeSDKSwift (0.1.0)
+
+DEPENDENCIES:
+  - PokeSDKSwift (from `../`)
+
+EXTERNAL SOURCES:
+  PokeSDKSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PokeSDKSwift: f317ebbd78f6a33ca46a5fa1b0bb9760432ec8d9
+
+PODFILE CHECKSUM: fe64ad06675dc38d2f088c0e40388191c0cd9240
+
+COCOAPODS: 1.11.2
